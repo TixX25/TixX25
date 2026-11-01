@@ -2,15 +2,15 @@
 
 **Electronic Engineering Student (9th Semester)** at *Universidad Distrital Francisco José de Caldas* (Bogotá, Colombia) & Active Researcher at **SEROB (Robotics Research Group)**.
 
-🔬 **Focus Areas:** Industrial Automation • Automatic Control • Mobile & Manipulator Robotics • Computational Intelligence & Bio-Signal Processing • Embedded Systems & PCB Prototyping.
+🔬 **Focus Areas:** Industrial Automation • Automatic Control • Mobile & Manipulator Robotics • Computational Intelligence & Bio-Signal Processing • Machine Learning • Embedded Systems & PCB Prototyping.
 
 ---
 
 ### 🛠️ Technical Toolbox
 
-- **Languages & Scientific Computing:** `Python` `MATLAB` `Simulink` `C` `C++` `Structured Text (ST)` `Ladder` `SFC (Grafcet)` `LaTeX`
-- **AI, Data Science & DSP:** `Multilayer Perceptrons (MLP)` `RBF` `CNN` `LSTM` `SOM` `Welch PSD` `Wavelet DWT` `Zero-Phase Filtering`
-- **Control & Robotics:** `Discrete PID` `Extended Kalman Filter (EKF)` `Fuzzy Logic` `System Identification` `Denavit-Hartenberg Kinematics` `ROS 2`
+- **Languages & Scientific Computing:** `Python` `MATLAB` `Simulink` `C` `C++` `Structured Text (ST)` `Ladder` `SFC (Grafcet)` `LaTeX` `ROS 2`
+- **AI, Data Science & DSP:** `Multilayer Perceptrons (MLP)` `RBF` `CNN` `LSTM` `SOM` `Welch PSD` `Wavelet DWT` `OBS`
+- **Control & Robotics:** `Discrete PID` `Extended Kalman Filter (EKF)` `Fuzzy Logic` `System Identification` `Denavit-Hartenberg Kinematics` 
 - **Hardware, Embedded & Automation:** `ESP32 (WROOM / S3 / C3)` `Altium Designer` `KiCad` `Autodesk Fusion 360` `Schneider EcoStruxure (Unity Pro XL)` `Factory I/O` `Blynk IoT` `Linux (Ubuntu)`
 
 ---
